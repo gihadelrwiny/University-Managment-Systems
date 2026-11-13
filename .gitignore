@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.rsuser
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache
+*.cache

@@ -1,0 +1,13 @@
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\bin\Debug\net10.0\University-Domain.deps.json
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\bin\Debug\net10.0\University-Domain.dll
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\bin\Debug\net10.0\University-Domain.pdb
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\obj\Debug\net10.0\University-Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\obj\Debug\net10.0\University-Domain.AssemblyInfoInputs.cache
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\obj\Debug\net10.0\University-Domain.AssemblyInfo.cs
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\obj\Debug\net10.0\University-Domain.csproj.CoreCompileInputs.cache
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\obj\Debug\net10.0\University-Domain.sourcelink.json
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\obj\Debug\net10.0\University-Domain.dll
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\obj\Debug\net10.0\refint\University-Domain.dll
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\obj\Debug\net10.0\University-Domain.pdb
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\obj\Debug\net10.0\ref\University-Domain.dll
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Domain\obj\Debug\net10.0\Universi.0B35BEB2.Up2Date

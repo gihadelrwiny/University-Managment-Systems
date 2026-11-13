@@ -1,0 +1,16 @@
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\bin\Debug\net10.0\University-Application.deps.json
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\bin\Debug\net10.0\University-Application.dll
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\bin\Debug\net10.0\University-Application.pdb
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\bin\Debug\net10.0\University-Domain.dll
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\bin\Debug\net10.0\University-Domain.pdb
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\University-Application.csproj.AssemblyReference.cache
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\University-Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\University-Application.AssemblyInfoInputs.cache
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\University-Application.AssemblyInfo.cs
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\University-Application.csproj.CoreCompileInputs.cache
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\University-Application.sourcelink.json
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\Universi.DD200256.Up2Date
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\University-Application.dll
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\refint\University-Application.dll
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\University-Application.pdb
+C:\Users\zedan\Source\Repos\University-Managment-System\University-Application\obj\Debug\net10.0\ref\University-Application.dll
