@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# User-specific files
+*.rsuser
+*.sln.docstates

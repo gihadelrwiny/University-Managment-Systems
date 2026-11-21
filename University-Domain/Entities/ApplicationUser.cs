@@ -20,5 +20,6 @@ namespace University_Domain.Entities
         public DoctorProfile? DoctorProfile { get; set; }
         public ICollection<Notification> Notifications { get; set; } = new List<Notification>();
         public ICollection<AuditLog> AuditLogs { get; set; } = new List<AuditLog>();
+        public ICollection<RefreshToken> RefreshTokens { get; set; }= new List<RefreshToken>();
     }
 }
